@@ -129,7 +129,7 @@ cv2.destroyAllWindows()
 
 ### iv) Rotate and display the video
 
-
+![img2](
 
 
 
